@@ -252,3 +252,15 @@ footer {
 	}
 
 }
+
+[class|="c1"],
+[class|="c2"],
+[class|="c3"],
+[class|="c4"],
+[class|="c5"],
+[class|="c6"] {
+	background: #39C;
+	color: #FFF;
+	line-height: 3;
+	text-align: center;
+}
